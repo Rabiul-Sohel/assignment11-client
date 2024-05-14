@@ -1,0 +1,191 @@
+[
+    {
+      "name": "Margherita Pizza",
+      "image": "https://i.ibb.co/ckbGCvt/round-pepperoni-pizza-table.jpg",
+      "category": "Pizza",
+      "description": "Classic Italian pizza topped with tomato sauce, mozzarella cheese, fresh basil leaves, and a drizzle of olive oil.",
+      "price": 10.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Sushi Roll Combo",
+      "image": "https://i.ibb.co/FH462Vv/fresh-philadelphia-sushi-roll-served-black-plate.jpg",
+      "category": "Japanese",
+      "description": "Assorted sushi rolls including California roll, spicy tuna roll, and salmon avocado roll. Served with pickled ginger, wasabi, and soy sauce.",
+      "price": 15.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "image": "https://i.ibb.co/92tZT1x/baked-quails-pan-dark-surface.jpg",
+      "category": "Indian",
+      "description": "Tender pieces of grilled chicken cooked in a creamy tomato-based sauce with aromatic Indian spices. Served with basmati rice and naan bread.",
+      "price": 12.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Caesar Salad",
+      "image": "https://i.ibb.co/V2KBBXr/ryan-concepcion-w-z0-RJCSBi-E-unsplash.jpg",
+      "category": "Salad",
+      "description": "Crisp romaine lettuce tossed with Caesar dressing, parmesan cheese, croutons, and a sprinkle of black pepper.",
+      "price": 8.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Beef Burger",
+      "image": "https://i.ibb.co/LxxKzR6/ilya-mashkov-qxb-JUr9-Rq-I-unsplash.jpg",
+      "category": "Burger",
+      "description": "Juicy beef patty topped with cheddar cheese, lettuce, tomato, onion, pickles, and mayonnaise. Served on a toasted sesame seed bun.",
+      "price": 9.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Pad Thai Noodles",
+      "image": "https://i.ibb.co/4PL7kgL/spaghetti-black-cup-with-tomatoes-lettuce.jpg",
+      "category": "Thai",
+      "description": "Stir-fried rice noodles with tofu, bean sprouts, peanuts, egg, and a tangy tamarind sauce. Garnished with lime wedges and cilantro.",
+      "price": 11.50,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "image": "https://i.ibb.co/RgWwV4w/spaghetti-black-cup-with-tomatoes-lettuce-1.jpg",
+      "category": "Italian",
+      "description": "Pasta tossed with crispy bacon, eggs, Parmesan cheese, and black pepper, creating a creamy and flavorful sauce.",
+      "price": 13.50,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Chicken Shawarma Wrap",
+      "image": "https://i.ibb.co/rx7mwJ0/tortilla-with-added-ink-cuttlefish-with-chicken-vegetables.jpg",
+      "category": "Middle Eastern",
+      "description": "Grilled marinated chicken wrapped in warm pita bread with lettuce, tomatoes, onions, and tahini sauce.",
+      "price": 9.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Beef Tacos",
+      "image": "https://i.ibb.co/YPPB4zp/mexican-tacos-with-beef-tomato-sauce-salsa.jpg",
+      "category": "Mexican",
+      "description": "Soft corn tortillas filled with seasoned ground beef, lettuce, cheese, tomatoes, and salsa.",
+      "price": 7.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Vegetable Stir-Fry",
+      "image": "https://i.ibb.co/nPzzbt2/stir-fry-chicken-sweet-peppers-green-beans.jpg",
+      "category": "Asian",
+      "description": "Assorted vegetables such as broccoli, bell peppers, carrots, and snap peas stir-fried in a savory sauce. Served over steamed rice.",
+      "price": 10.50,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Caprese Salad",
+      "image": "https://i.ibb.co/TLs4n14/italian-caprese-salad-with-tomatoes-basil-mozzarella-olives-olive-oil-wooden-board-italian-tradition.jpg",
+      "category": "Salad",
+      "description": "Fresh tomatoes, mozzarella cheese, and basil leaves drizzled with balsamic glaze and olive oil. A simple and refreshing Italian salad.",
+      "price": 9.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Beef Pho",
+      "image": "https://i.ibb.co/mRvPvH3/3d-delicious-food-tet-vietnamese-new-year-celebration.jpg",
+      "category": "Vietnamese",
+      "description": "A fragrant broth with rice noodles, thinly sliced beef, bean sprouts, Thai basil, cilantro, and lime wedges. Served with hoisin sauce and sriracha.",
+      "price": 11.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Mushroom Risotto",
+      "image": "https://i.ibb.co/2yPbF5v/high-protein-meal-meat-close-up-detail.jpg",
+      "category": "Italian",
+      "description": "Creamy Arborio rice cooked with mushrooms, onions, garlic, white wine, and Parmesan cheese. A comforting and indulgent Italian rice dish.",
+      "price": 14.50,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Fish and Chips",
+      "image": "https://i.ibb.co/LYvLPFz/top-view-fish-chips-with-cutlery-selection-sauces.jpg",
+      "category": "British",
+      "description": "Crispy battered fish served with thick-cut fries (chips), mushy peas, tartar sauce, and a wedge of lemon. A quintessential British pub dish.",
+      "price": 12.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Falafel Wrap",
+      "image": "https://i.ibb.co/QnPxfHp/wrap-salad-roll-with-tuna-corn-salad.jpg",
+      "category": "Middle Eastern",
+      "description": "Crispy chickpea fritters wrapped in warm pita bread with lettuce, tomatoes, onions, and tahini sauce.",
+      "price": 8.50,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Lasagna",
+      "image": "https://i.ibb.co/8mwb3k4/classic-lasagna-with-bolognese-sauce.jpg",
+      "category": "Italian",
+      "description": "Layers of pasta sheets, marinara sauce, ricotta cheese, mozzarella cheese, and ground beef, baked to perfection. A hearty and comforting Italian classic.",
+      "price": 16.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Chicken Caesar Wrap",
+      "image": "https://i.ibb.co/khxYT4W/side-view-chicken-burrito-grilled-chicken-fillet-with-rice-wrapped-tortilla-fresh-cucumber-tomato-ca.jpg",
+      "category": "Wrap",
+      "description": "Grilled chicken breast, romaine lettuce, Caesar dressing, and Parmesan cheese wrapped in a flour tortilla.",
+      "price": 9.50,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "image": "https://i.ibb.co/tZGSKrm/viktor-forgacs-Wm-KXu-bzygo-unsplash.jpg",
+      "category": "Indian",
+      "description": "Chunks of paneer (Indian cottage cheese) marinated in yogurt and spices, cooked in a creamy tomato-based sauce. Served with basmati rice and naan bread.",
+      "price": 12.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Hawaiian Poke Bowl",
+      "image": "https://i.ibb.co/HdcrQbS/stephanie-hau-8-QJ6-Z-s-53c-unsplash.jpg",
+      "category": "Hawaiian",
+      "description": "A bowl of rice topped with fresh diced raw fish (usually tuna or salmon), avocado, cucumber, edamame, and seaweed, dressed with soy sauce, sesame oil, and other seasonings.",
+      "price": 14.99,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Tom Yum Soup",
+      "image": "https://i.ibb.co/sHY1HWK/alexandra-tran-PRMr-WEF8-Big-unsplash.jpg",
+      "category": "Thai",
+      "description": "A hot and sour soup made with lemongrass, galangal, kaffir lime leaves, mushrooms, shrimp, and chili peppers. A signature dish of Thai cuisine.",
+      "price": 10.50,
+      "count": 0,
+      "quantity": 20
+    },
+    {
+      "name": "Pulled Pork Sandwich",
+      "image": "https://i.ibb.co/mTGx6Mp/rachel-bramlett-a-BOis-V4hn-OY-unsplash.jpg",
+      "category": "Sandwich",
+      "description": "Slow-cooked pulled pork smothered in barbecue sauce, piled high on a soft bun, and topped with coleslaw. A Southern comfort food classic.",
+      "price": 11.50,
+      "count": 0,
+      "quantity": 20
+    }
+  ]
